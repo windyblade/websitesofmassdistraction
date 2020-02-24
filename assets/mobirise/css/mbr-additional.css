@@ -3555,93 +3555,6 @@ section.lazy-placeholder:after {
 .cid-rQYWTifpvo .foot-title {
   color: #090259;
 }
-.cid-r9SCKFEWRq {
-  padding-top: 135px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/board-game-boss-business-1040157-2000x1333.jpg");
-}
-.cid-r9SCKFEWRq .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-r9SCKFEWRq .mbr-text {
-  color: #767676;
-}
-.cid-r9SCKFEWRq .card {
-  display: flex;
-  position: relative;
-  justify-content: center;
-}
-.cid-r9SCKFEWRq .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-img {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-img .mbr-overlay {
-  background-color: #efefef;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-img .mbr-section-btn {
-  display: flex;
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  margin: auto;
-  left: 0;
-  justify-content: center;
-  align-items: center;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-img img {
-  width: 100%;
-  height: 100%;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-box {
-  background-color: #ffffff;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-box h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  padding-top: 2rem;
-}
-.cid-r9SCKFEWRq .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-}
-.cid-r9SCKFEWRq .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-r9SCKFEWRq .popup-btn .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-r9SCKFEWRq .popup-btn .mbr-section-btn {
-  height: 100%;
-  display: flex !important;
-  opacity: 0;
-}
-.cid-r9SCKFEWRq .popup-btn:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-r9SCKFEWRq .popup-btn:hover .mbr-section-btn {
-  opacity: 1;
-}
-.cid-r9SCKFEWRq .mbr-section-title {
-  color: #ffffff;
-}
 .cid-r9SCElmyWA .navbar {
   background: #ffffff;
   transition: none;
@@ -4030,6 +3943,54 @@ section.lazy-placeholder:after {
 .cid-r9SCElmyWA .nav-link:hover,
 .cid-r9SCElmyWA .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-rRs2Klgk9Y {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+}
+.cid-rRs2Klgk9Y .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rRs2Klgk9Y .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-rRs2Klgk9Y .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rRs2Klgk9Y .user_text {
+  color: #767676;
+}
+.cid-rRs2Klgk9Y .user_name {
+  color: #767676;
+}
+.cid-rRs2Klgk9Y .user_desk {
+  color: #767676;
 }
 .cid-rQYWQhW1ld {
   padding-top: 30px;
@@ -4747,7 +4708,7 @@ section.lazy-placeholder:after {
 }
 .cid-rQT9nvDvL9 {
   padding-top: 135px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rQT9nvDvL9 P {
