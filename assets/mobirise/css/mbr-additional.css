@@ -4206,17 +4206,18 @@ section.lazy-placeholder:after {
 .cid-rQT6XtUvLD {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-rQT6XtUvLD .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #090259;
+  color: #090259;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rQT6XtUvLD .section-text {
   padding: 2rem 0;
+  color: #090259;
 }
 .cid-rQT6XtUvLD .inner-container {
   margin: 0 auto;
