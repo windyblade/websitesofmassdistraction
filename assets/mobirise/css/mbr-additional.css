@@ -710,37 +710,16 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rQYIGhO0K0 {
-  padding-top: 120px;
-  padding-bottom: 75px;
+.cid-rSWmgF0n3h {
+  padding-top: 75px;
+  padding-bottom: 30px;
   background-color: #090259;
 }
-.cid-rQYIGhO0K0 .line {
-  background-color: #ffffff;
+.cid-rSWmgF0n3h .mbr-section-subtitle {
   color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
-.cid-rQYIGhO0K0 .section-text {
-  padding: 2rem 0;
-}
-.cid-rQYIGhO0K0 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rQYIGhO0K0 .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rQYIPL7JQQ {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rQYIPL7JQQ .mbr-text,
-.cid-rQYIPL7JQQ blockquote {
-  color: #767676;
+.cid-rSWmgF0n3h H2 {
+  color: #ffffff;
 }
 .cid-rQYQnJ2lFl .modal-body .close {
   background: #1b1b1b;
@@ -980,9 +959,41 @@ section.lazy-placeholder:after {
 .cid-rQYQnJ2lFl .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rQYIGhO0K0 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #090259;
+}
+.cid-rQYIGhO0K0 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rQYIGhO0K0 .section-text {
+  padding: 2rem 0;
+}
+.cid-rQYIGhO0K0 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rQYIGhO0K0 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rQYIPL7JQQ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rQYIPL7JQQ .mbr-text,
+.cid-rQYIPL7JQQ blockquote {
+  color: #767676;
+}
 .cid-rSikGLn45O {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 75px;
   background-color: #efefef;
 }
 .cid-rSikGLn45O .mbr-section-subtitle {
@@ -3595,7 +3606,7 @@ section.lazy-placeholder:after {
   color: #090259;
 }
 .cid-rQT7fH3lmA {
-  padding-top: 135px;
+  padding-top: 90px;
   padding-bottom: 30px;
   background-color: #090259;
 }
@@ -3630,7 +3641,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rRCmyNJLzy {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-1920x1281.jpg");
 }
